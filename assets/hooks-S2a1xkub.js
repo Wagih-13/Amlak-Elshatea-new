@@ -1,0 +1,1 @@
+import{r as n}from"./index-bhfotHN7.js";import{u as o}from"./MarkerIcon-Qt1AfLDv.js";function r(){return o().map}function p(e){const t=r();return n.useEffect(function(){return t.on(e),function(){t.off(e)}},[t,e]),t}export{r as a,p as u};
